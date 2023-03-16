@@ -4,7 +4,6 @@ public class Book implements Reducible {
 
     private String bookAuthor;
 
-
     private String bookCategory;
 
     private double bookPrice;
